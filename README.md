@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋. I go by Sonar
 
-<!--
-**SoNearSonar/SoNearSonar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me: 
+- I am a Full Stack Engineer at Allstate who is interested in technology and the outdoors. Graduated with a Bachelors of Science, Computer Science degree (with highest honors) in May 2022.
 
-Here are some ideas to get you started:
+## Hobbies: 
+- Exercising, Gaming, Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages Known: 
+- C#, Java, Python, HTML, CSS
+
+## Database Languages Known: 
+- MongoDB
