@@ -5,7 +5,9 @@
 
 :computer: Likes to learn about technology
 
-:fallen_leaf: Enjoys exploring the outdoors
+:hammer_and_wrench: Enjoys working with API's
+
+:fallen_leaf: Loves exploring the outdoors
 
 :office: University of North Carolina at Charlotte alumni
 
