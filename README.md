@@ -12,7 +12,7 @@
 :office: University of North Carolina at Charlotte alumni
 
 ## Languages Used: 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonearsonar)](https://github.com/SoNearSonar?tab=repositories)
+[![Top Languages](https://github-readme-stats-vert-gamma-78.vercel.app/api/top-langs/?username=sonearsonar)](https://github.com/SoNearSonar?tab=repositories)
 
 ## Technology Stacks Known: 
 - C#, Java, Python, HTML, CSS. MongoDB
