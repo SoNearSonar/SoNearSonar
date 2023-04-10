@@ -1,4 +1,4 @@
-## Hi there 👋. I go by Sonar
+## Hi there 👋. I go by Sonar. My profile picture character is my character
 
 ## About me: 
 :briefcase: Technology rotational program participant at Allstate
