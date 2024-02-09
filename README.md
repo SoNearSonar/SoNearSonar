@@ -1,4 +1,4 @@
-## Hi there 👋. My profile picture character is my character
+## Hi there 👋.
 
 ## About me: 
 :briefcase: Technology rotational program participant at Allstate
